@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/background_for_hall"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/room1"
+        android:onClick="OnClick"
+        android:background="@android:color/transparent"
+        android:id="@+id/hall1"
+        android:tag="room1.jpg"
+        android:layout_weight="0.12" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/room2"
+        android:background="@android:color/transparent"
+        android:id="@+id/hall2"
+
+        android:tag="room1.jpg"
+        android:layout_weight="0.10" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/room3"
+
+        android:tag="room1.jpg"
+        android:background="@android:color/transparent"
+        android:id="@+id/hall3"
+        android:layout_weight="0.08" />
+
+</LinearLayout>

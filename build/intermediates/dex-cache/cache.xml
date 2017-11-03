@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Android\Desktop\MuseumUn\oVRPlugin\build\intermediates\bundles\default\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4bbf0e9de7e92920d75e6911aab4a360fa955a7b">
+        <dex dex="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\transforms\dex\debug\folders\1000\8\classes_669da6a05120a7a0623d22427c2d111759409ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Android\Desktop\MuseumUn\gvr_android_common\build\intermediates\bundles\default\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c6421d40d6a2f5bac6ee38741e8887cfe5332cc">
+        <dex dex="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\transforms\dex\debug\folders\1000\8\classes_652062506359fe0cb022d1c96f7b36e5848aba5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_786550ffb1eb3323a1a09e52fc77adc4a2412ea6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Android\Desktop\MuseumUn\unitygvractivity\build\intermediates\bundles\default\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9b2ccec7b6ac0fcbd15c406ea53ba0a98ce9c2b2">
+        <dex dex="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\transforms\dex\debug\folders\1000\8\classes_e0a7fd19dccc4133662aff83bed13cb1305449dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Android\Desktop\MuseumUn\gvrpermissionsupportrelease\build\intermediates\bundles\default\libs\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15265a118cba1eb439baa307cc684d9ed018706d">
+        <dex dex="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\transforms\dex\debug\folders\1000\8\classes_bbb933fe5ec9b0772867b5fc990de31345caba5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9bc30398110ac488f1a75b57d9bc71de361aa2b">
+        <dex dex="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1b726e643017f8dcb8d7a0506d593bc5f3c72db4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Android\Desktop\MuseumUn\museumUn\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f91f02a166596e7391b89cd7e51575e325357b">
+        <dex dex="C:\Users\Android\Desktop\MuseumUn\museumUn\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_74c7e65b7db3ed5a8e52bb51c7c5332669d8e225\classes.dex" />
+    </item>
+
+</items>

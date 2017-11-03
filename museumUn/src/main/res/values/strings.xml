@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name" translatable="false">VR_ADMuseum</string>
+  <string name="welcome" translatable="false">Welcome to the virtual museum of advertising.\nWish you pleasant viewing!</string>
+  <string name="action_settings" translatable="false">Settings</string>
+  <string name="about" translatable="false">VR_ADMuseum - a unique mobile application that developers have created a student for students studying marketing,
+        advertising and PR to make the learning process efficient and fun. In this application, the best advertising samples and submitted to VR-format.</string>
+  <string name="nameButtonNext" translatable="false">WELCOME TO HALLS</string>
+  <string name="nameButtonInstructions" translatable="false">INSTRUCTION</string>
+  <string name="nameButtonAbout" translatable="false">ABOUT</string>
+  <string name="room1" translatable="false">Room of social advertising</string>
+  <string name="room2" translatable="false">Advertising History Room</string>
+  <string name="room3" translatable="false">Public Relations</string>
+  <string name="manual" translatable="false">\"Using the app and take a tour:  1. For to see the exhibition - VR-needed points.  2. Obery list of rooms the one that you want to visit.  3. Put your smartphone in glasses and sit on a chair.  4. Look down at the sign \"legs\" - so you podash signal planuyesh move.  5. Turn your head left or right, and thus ask direction.  6. If you want to stay - look down.     \"</string>
+</resources>

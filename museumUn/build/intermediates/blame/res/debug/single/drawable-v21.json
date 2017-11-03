@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Android\\.android\\build-cache\\5813c5d952996256fd1bcba31c2915c8a70fc487\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Android\\.android\\build-cache\\5813c5d952996256fd1bcba31c2915c8a70fc487\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\rippleable.xml",
+        "source": "C:\\Users\\Android\\Desktop\\MuseumUn\\gvr_android_common\\build\\intermediates\\bundles\\default\\res\\drawable-v21\\rippleable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Android\\.android\\build-cache\\5813c5d952996256fd1bcba31c2915c8a70fc487\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Android\\.android\\build-cache\\5813c5d952996256fd1bcba31c2915c8a70fc487\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

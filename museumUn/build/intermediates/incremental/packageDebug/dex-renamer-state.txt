@@ -1,0 +1,7 @@
+#Fri Nov 03 16:36:16 EET 2017
+base.0=C\:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_786550ffb1eb3323a1a09e52fc77adc4a2412ea6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b726e643017f8dcb8d7a0506d593bc5f3c72db4\\classes.dex
+base.1=C\:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1b726e643017f8dcb8d7a0506d593bc5f3c72db4
+file.0=C\:\\Users\\Android\\Desktop\\MuseumUn\\museumUn\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_786550ffb1eb3323a1a09e52fc77adc4a2412ea6\\classes.dex
